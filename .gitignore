@@ -1,0 +1,11 @@
+# Executable
+app
+
+# Object Files
+*.o
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
